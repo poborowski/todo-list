@@ -1,7 +1,9 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
-import Todo from './Todo';
-import TodoForm from './TodoForm';
+import Todo from "./components/Todo";
+import TodoForm from "./components/ToDoForm";
+import TodoList from "./components/TodoList";
+
 
 describe("Todo", () => {
   const sampleTodos = [
