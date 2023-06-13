@@ -1,0 +1,19 @@
+1 test sprawdza, czy komponent renderuje się poprawnie z danymi wejściowymi.
+
+2 test sprawdza, czy funkcja completeTodo jest wywoływana po kliknięciu na odpowiedni element.
+
+3 test sprawdza, czy funkcja removeTodo jest wywoływana po kliknięciu na ikonę usuwania.
+
+4 test sprawdza, czy formularz do dodawania zadań renderuje się poprawnie.
+
+5 test sprawdza, czy formularz do aktualizacji zadań renderuje się poprawnie.
+
+6 test sprawdza, czy funkcja onSubmit jest wywoływana po wysłaniu formularza.
+
+7 test sprawdza, czy komponent TodoList jest prawidłowo renderowany.
+
+8 test sprawdza, czy użytkownik może dodać zadanie.
+
+9 test sprawdza, czy użytkownik może oznaczyć zadanie jako wykonane.
+
+10 test sprawdza, czy użytkownik może usunąć zadanie.
